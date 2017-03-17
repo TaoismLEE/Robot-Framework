@@ -5,6 +5,8 @@ ones using the same syntax that is used for creating test cases.
 Robot Framework is operating system and application independent. The core framework is implemented using Python and runs also on 
 Jython (JVM) and Iron Python (.NET).
 
-More information, Please refer to offical website: http://robotframework.org/
-Or refer to the home page in github: https://github.com/robotframework/robotframework
+More information, Please refer to offical website:
+http://robotframework.org/
+Or refer to the home page in github:
+https://github.com/robotframework/robotframework
 
